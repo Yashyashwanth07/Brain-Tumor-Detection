@@ -1,0 +1,43 @@
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Presentation & Reference Papers
+*.pptx
+paper-*.pdf
+Brain_tumor_detection.pdf
+
+# Saved HTML workflow files (large browser captures)
+Images/workflow.html
+Images/workflow_files/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Model checkpoints (large binaries)
+*.pth
+*.pt
+*.h5
+*.onnx
+outputs/
+runs/
