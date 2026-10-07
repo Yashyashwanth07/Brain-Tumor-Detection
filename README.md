@@ -113,7 +113,7 @@ Input MRI (224×224×3)
 ![Inference Demo](Images/glioma_tumor.png)
 
 ### End-to-End Workflow
-![Workflow](Images/workflow.png)
+![Workflow](Images/end_to_end_methodology.png)
 
 ## Tech Stack
 
